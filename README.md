@@ -53,7 +53,5 @@ If you would like to contribute to this project, please fork the repository and 
 This project is licensed under the MIT License.
 
 ### Contact
-For any questions or issues, please open an issue on this repository or contact the maintainer at [email@example.com].
+For any questions or issues, please open an issue on this repository or contact the maintainer.
 ```
-
-You can edit and expand this template based on the specifics of your scripts and repository.

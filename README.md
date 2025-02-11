@@ -1,5 +1,4 @@
 # PythonBIOTools
-Thank you for providing the script. Here is the updated README.md for the PAM analysis scripts:
 
 ```markdown
 # PythonBIOTools
